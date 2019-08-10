@@ -1,4 +1,3 @@
 cp .bash_aliases ~/.bash_aliases
-. /.bashrc
-
+. ~/.bashrc
 update
